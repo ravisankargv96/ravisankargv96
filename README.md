@@ -9,7 +9,7 @@ Hello! Here are my **repositories** covering various programming languages and f
 
 ## 🚀 Projects  
 
-### 🌼 Spring Boot
+### ⚡ Spring Boot
 1. [1.SpringWebApp](https://github.com/ravisankargv96/1.SpringWebApp)
 2. [contact-management-system-v4](https://github.com/ravisankargv96/contact-management-system-v4)
 3. [SpringProjects](https://github.com/ravisankargv96/SpringProjects)
